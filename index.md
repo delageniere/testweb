@@ -9,14 +9,16 @@ In 2017, a collaboration agreement has been signed for the development of ISPyB 
 Today ISPyB is actively supported by the following partners: ESRF, Soleil, DLS, MAX IV, HZB, EMBL, Global Phasing Ltd, DESY, ALBA.
 
 ## Meetings
+
 ### ESRF January 17th 18th 2017
-### ESRF January 17th 18th 2017
+
 
 
 
 ```
 
 1st official meeting of the ISPyB collaboration.
+[See presentations](http://forge.epn-campus.eu/documents/872)
 
 ```
 
