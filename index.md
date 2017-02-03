@@ -10,7 +10,7 @@ Today ISPyB is actively supported by the following partners: ESRF, Soleil, DLS, 
 
 ## Meetings
 
-### ESRF January 17th 18th 2017
+### ESRF January 17/18 2017
 
 
 ```
@@ -19,12 +19,13 @@ Today ISPyB is actively supported by the following partners: ESRF, Soleil, DLS, 
 
 ```
 
-[See presentations](http://forge.epn-campus.eu/documents/872)
+[-> See presentations](http://forge.epn-campus.eu/documents/872)
 
-### How to install ?
+
+## How to install ?
 
 [Install ISPyB](testweb/README.md)
 
-### Support or Contact
+## Support or Contact
 
 You want more information about ISPyB, please contact: <ispyb@esrf.fr>.
