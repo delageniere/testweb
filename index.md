@@ -24,7 +24,7 @@ Today ISPyB is actively supported by the following partners: ESRF, Soleil, DLS, 
 
 ## How to install ?
 
-[Install ISPyB](testweb/README.md)
+[Install ISPyB](README.md)
 
 ## Support or Contact
 
