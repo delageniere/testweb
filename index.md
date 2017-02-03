@@ -20,6 +20,10 @@ Today ISPyB is actively supported by the following partners: ESRF, Soleil, DLS, 
 
 ```
 
+### How to install ?
+
+[a relative link](README.md)
+
 ### Support or Contact
 
 You want more information about ISPyB, please contact: <ispyb@esrf.fr>.
